@@ -1,0 +1,24 @@
+
+MacBook-Air-2:~ mmar$ cd desktop
+MacBook-Air-2:desktop mmar$ mkdir MH8811_02
+MacBook-Air-2:desktop mmar$ cd MH8811_02
+MacBook-Air-2:MH8811_02 mmar$ touch "my file"
+MacBook-Air-2:MH8811_02 mmar$ cd ..
+MacBook-Air-2:desktop mmar$ rm -rf MH8811_02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
