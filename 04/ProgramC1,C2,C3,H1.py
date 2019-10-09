@@ -38,7 +38,7 @@ def myaverage(ls):
     for i in ls:
         count=count+1
         sum=sum+i
-    average=sum/count
+        average=sum/count
     return average
 
 def mymedian(ls):
